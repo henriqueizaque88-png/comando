@@ -1,0 +1,50 @@
+body{
+     background-color: rgb(154, 168, 164);
+    font-family: sans-serif;
+    text-decoration: double;
+    font-size: medium;
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    background-color: darkcyan;
+}
+h1{
+    /*Não sei me descrever bem*/
+    color: rgb(180, 52, 52);
+    font-size: medium;
+    font-language-override: inherit;
+    background-color: rgb(0, 0, 0);
+        font-size: 55px;
+        text-align: center;
+}
+p{
+     color:rgb(177, 138, 212);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-align: justify;
+    text-decoration: underline;
+    background-color: chocolate;
+}
+/*Link não visitado */
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+/*Link já visitado*/
+a:visited {
+  color: blue;
+  text-decoration: none;
+}
+
+/*Quando o mouse passa por cima*/
+a:hover {
+  color: pink;
+  text-decoration: none;
+}
+
+/*Link ativo/selecionado*/
+a:active {
+  color: yellow;
+  text-decoration: none;
+}
